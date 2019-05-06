@@ -27,6 +27,8 @@ I have created a brief vignette showing the different appraoches to some common 
 The associated data set has been posted on github: https://raw.githubusercontent.com/Jagdish16/jagdish_r_repo/master/DATA607/camera_dataset.csv
  and the html file can be found here: bs.com/Jagdish/ds607_tidyverse_vignette
  
+I also extended Mary Anna Kivenson's vignette on Pipe Operators from the margittr package by adding an example for the %$% operator.
+ 
  Thanks,
  Jagdish Chhabria.
  
